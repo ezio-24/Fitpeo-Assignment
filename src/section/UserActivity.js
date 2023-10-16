@@ -1,6 +1,6 @@
 import ExpandMore from "@mui/icons-material/ExpandMore";
 import { Button, Paper, Typography } from "@mui/material";
-import { Box, color } from "@mui/system";
+import { Box } from "@mui/system";
 import React from "react";
 
 import {
@@ -46,7 +46,7 @@ const UserActivity = () => {
         usePointStyle: true,
         data: [20, 50, 42, 75, 45, 47,30],
         backgroundColor: "transparent",
-        borderColor: "orangered",
+        borderColor: "orangeade",
         pointBorderColor: "transparent",
         pointBorderWidth: 4,
         tension: 0.5,

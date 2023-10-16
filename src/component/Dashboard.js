@@ -5,7 +5,7 @@ import OrderStats from "../section/OrderStats";
 import Overview from "../section/Overview";
 import Profile from "../section/Profile";
 import Revenue from "../section/Revenue";
-import TopProducts from "../section/TopProduct";
+import TopProducts from "../section/TopProducts";
 import UserActivity from "../section/UserActivity";
 ;
 
