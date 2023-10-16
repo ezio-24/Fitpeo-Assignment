@@ -54,7 +54,7 @@ const Profile = () => {
         textAlign="center"
         fontWeight={600}
       >
-    Prem Sardhan
+    Anand Khandel
         <br style={{ border: "1px solid red", margin: "40px" }} />
       </Typography>
       <Typography variant="body2" textAlign="center" sx={{ opacity: 0.8 }}>

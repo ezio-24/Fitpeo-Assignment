@@ -4,7 +4,7 @@ import useMediaQuery from "@mui/material/useMediaQuery";
 import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
 import Sidebar from "./Sidebar";
-import Header from "./Header";
+import Navbar from "./Navbar";
 import Dashboard from "./Dashboard";
 
 
@@ -64,7 +64,7 @@ const Home = () => {
           />
         </Box>
         <Box sx={{ flex: 1, display: "flex", flexDirection: "column" }}>
-          <Header onDrawerToggle={handleDrawerToggle} />
+          <Navbar onDrawerToggle={handleDrawerToggle} />
           <Dashboard />
         </Box>
       </Box>
