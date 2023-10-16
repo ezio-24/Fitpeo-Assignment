@@ -1,4 +1,4 @@
-import { Avatar, Button, Chip, Grid, Paper, Typography } from "@mui/material";
+import { Button, Chip, Grid, Paper, Typography } from "@mui/material";
 import { Box } from "@mui/system";
 import ExpandMore from "@mui/icons-material/ExpandMore";
 import React from "react";
